@@ -1,0 +1,87 @@
+<div class="container">
+<br>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-md-8">
+            <div class="jumbotron">
+                 <h1>Start Here</h1>
+
+                <p>Example launch page form for Bootstrap 3. Use this as a starting point to create something more unique.</p>
+                <p><a href="http://bootply.com" class="btn btn-primary btn-lg">Learn More <i class="glyphicon glyphicon-chevron-right"></i></a>
+                </p>
+            </div>
+        </div>
+        <div class="col-md-4">
+          <h2>Sign Up</h2>
+            <hr>
+          <form class="form-horizontal" role="form">
+           <div class="form-group">
+           <label for="inputEmail1" class="col-md-3 control-label">Email</label>
+           <div class="col-md-9">
+             <input type="email" class="form-control" id="inputEmail1" placeholder="Email">
+           </div>
+           </div>
+           <div class="form-group">
+           <label for="inputPassword1" class="col-md-3 control-label">Password</label>
+           <div class="col-md-9">
+             <input type="password" class="form-control" id="inputPassword1" placeholder="Password">
+           </div>
+           </div>
+           <div class="form-group">
+           <label for="inputPassword1" class="col-md-3 control-label">Verify</label>
+           <div class="col-md-9">
+             <input type="password" class="form-control" id="inputPassword2" placeholder="Password (again)">
+           </div>
+           </div>
+           <div class="form-group">
+           <div class="col-md-offset-3 col-md-9">
+             <div class="checkbox">
+               <label>
+                 <input type="checkbox"> I agree with the <a data-toggle="modal" href="#tcModal">Terms and Conditions</a>
+               </label>
+             </div>
+           </div>
+           </div>
+           <div class="form-group">
+           <div class="col-md-offset-3 col-md-9">
+             <button type="submit" class="btn btn-inverse">Sign in</button>
+           </div>
+           </div>
+          </form>
+          
+        </div>
+    </div>
+</div>
+
+
+    <!--Sign Up in Jumbotron-->
+    <div class="jumbotron" id="signup">
+      <div class="container">
+        <h2> Sign Up for Updates </h2>
+        <div class="row">
+          <div class="col-md-8">
+          </div>
+          <div class="col-md-4">
+          <form role="form">
+            <div class="form-group">
+              <input type="text" class="form-control" id="name" placeholder="Enter Full Name">
+            </div>
+          </div>
+        </div> <!-- end of row-->
+        <div class="row">
+          <div class="col-md-8"> </div>
+          <div class="col-md-4">
+          <div class="form-group">
+            <input type="email" class="form-control" id="email" placeholder="Enter a valid Email">
+          </div>
+          <div class = "pull-right">
+            <button type="button" class="btn btn-primary">
+              Submit
+            </button>
+          </div>
+        </form>
+      </div>
+      </div>
+      </div>
+    </div>
