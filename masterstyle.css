@@ -3932,8 +3932,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
 }
 .navbar-default {
-  background-color: #365b88;
-  border-color: #2d4b70;
+  background-color: #0169b0;
+  border-color: #01558f;
 }
 .navbar-default .navbar-brand {
   color: #ffffff;
@@ -3978,7 +3978,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-default .navbar-collapse,
 .navbar-default .navbar-form {
-  border-color: #2d4b70;
+  border-color: #01558f;
 }
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
@@ -5775,4 +5775,13 @@ button.close {
   .hidden-print {
     display: none !important;
   }
+}
+#how {
+  background-color: #afceeb;
+}
+#contact {
+  background-color: #092950;
+}
+.jumbotron {
+  border-radius: 20px;
 }
