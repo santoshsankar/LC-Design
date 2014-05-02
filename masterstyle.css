@@ -5785,3 +5785,9 @@ button.close {
 .jumbotron {
   border-radius: 20px;
 }
+.navbar .brand {
+  max-height: 40px;
+  overflow: visible;
+  padding-top: 0;
+  padding-bottom: 0;
+}
