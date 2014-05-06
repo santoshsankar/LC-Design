@@ -3951,8 +3951,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: ;
-  background-color: transparent;
+  color: #ffffff;
+  background-color: #092950;
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
@@ -3992,8 +3992,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
-    color: ;
-    background-color: transparent;
+    color: #ffffff;
+    background-color: #092950;
   }
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
@@ -4012,7 +4012,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   color: #777777;
 }
 .navbar-default .navbar-link:hover {
-  color: ;
+  color: #ffffff;
 }
 .navbar-inverse {
   background-color: #222222;
@@ -5783,7 +5783,7 @@ button.close {
   background-color: #092950;
 }
 .jumbotron {
-  border-radius: 20px;
+  border-radius: 0px;
 }
 .navbar .brand {
   max-height: 40px;
