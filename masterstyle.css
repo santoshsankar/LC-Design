@@ -5777,10 +5777,11 @@ button.close {
   }
 }
 #how {
-  background-color: #afceeb;
+  background-color: #092950;
+  color: #fff;
 }
 #contact {
-  background-color: #092950;
+  background-color: #afceeb;
 }
 .jumbotron {
   border-radius: 0px;
